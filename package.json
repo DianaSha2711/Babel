@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "build": "babel src -d dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/defender-game"
+    "url": "https://github.com/DianaSha2711/Babel.git"
   },
   "keywords": [
     "game"
